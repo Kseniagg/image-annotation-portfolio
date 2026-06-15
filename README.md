@@ -24,7 +24,7 @@ Ce projet personnel a été réalisé dans le cadre de ma montée en compétence
 Voici une démonstration de mon travail d'annotation réalisé sur l'outil CVAT. Ces captures d'écran illustrent la précision de la segmentation par polygones et la structure des données générées.
 
 ![Exemple de segmentation précise](images/Capture_d_ecran_1.png)
-![Exemple de segmentation précise](images/Capture_d_ecran_2.png)
+![Exemple de segmentation précise](images/Capture_d_ecran_2.PNG)
 
 *Illustration : Utilisation des polygones pour délimiter les zones d'intérêt avec précision.*
 
