@@ -19,6 +19,15 @@ Ce projet personnel a été réalisé dans le cadre de ma montée en compétence
 ├── annotations/      # Fichiers d'annotation (format .json)
 └── README.md         # Documentation du projet
 
+## Aperçu visuel
+
+Voici une démonstration de mon travail d'annotation réalisé sur l'outil CVAT. Ces captures d'écran illustrent la précision de la segmentation par polygones et la structure des données générées.
+
+![Exemple de segmentation précise](images/Capture_d_ecran_1.png)
+![Exemple de segmentation précise](images/Capture_d_ecran_2.png)
+
+*Illustration : Utilisation des polygones pour délimiter les zones d'intérêt avec précision.*
+
 ## Démarche technique
 1. **Sélection et préparation :** Nettoyage des données et anonymisation (si applicable).
 2. **Annotation :** Réalisation de la segmentation par polygones pour garantir une délimitation précise des objets.
